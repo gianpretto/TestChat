@@ -1,0 +1,20 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="Str_NewChat">+ New Chat</system:String>
+    <system:String x:Key="Str_History">History</system:String>
+    <system:String x:Key="Str_Settings">Settings</system:String>
+    <system:String x:Key="Str_ToggleTheme">Mode</system:String>
+    <system:String x:Key="Str_Send">Send</system:String>
+    <system:String x:Key="Str_Language">EN / ES</system:String>
+    <system:String x:Key="Str_AttachFile">Attach File</system:String>
+    <system:String x:Key="Str_RemoveFile">Remove File</system:String>
+    <system:String x:Key="Str_Typing">AI is typing...</system:String>
+    <system:String x:Key="Str_Copy">Copy</system:String>
+    <system:String x:Key="Str_SearchChat">Search chat</system:String>
+    <system:String x:Key="Str_Generating">Generating...</system:String>
+    <system:String x:Key="Str_Stop">Stop</system:String>
+    <system:String x:Key="Str_Greeting">How can I help you today?</system:String>
+    
+</ResourceDictionary>

@@ -1,0 +1,26 @@
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+Publish/
+*.exe
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini

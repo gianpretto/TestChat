@@ -1,0 +1,33 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Colors -->
+    <Color x:Key="AppBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="SidebarBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="ChatAreaBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="InputAreaBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="MessageBubbleAiColor">#F3F4F6</Color>
+    <Color x:Key="MessageBubbleUserColor">#E5E7EB</Color>
+    <Color x:Key="TextForegroundColor">#111827</Color>
+    <Color x:Key="InputBoxBackgroundColor">#FFFFFF</Color>
+
+    <!-- Brushes -->
+    <SolidColorBrush x:Key="AppBackgroundBrush" Color="{StaticResource AppBackgroundColor}"/>
+    <SolidColorBrush x:Key="SidebarBackgroundBrush" Color="{StaticResource SidebarBackgroundColor}"/>
+    <SolidColorBrush x:Key="SidebarBorderBrush" Color="#D1D5DB"/>
+    <SolidColorBrush x:Key="ChatAreaBackgroundBrush" Color="{StaticResource ChatAreaBackgroundColor}"/>
+    <SolidColorBrush x:Key="InputAreaBackgroundBrush" Color="{StaticResource InputAreaBackgroundColor}"/>
+    <SolidColorBrush x:Key="MessageBubbleAiBrush" Color="{StaticResource MessageBubbleAiColor}"/>
+    <SolidColorBrush x:Key="MessageBubbleUserBrush" Color="{StaticResource MessageBubbleUserColor}"/>
+    <SolidColorBrush x:Key="TextForegroundBrush" Color="{StaticResource TextForegroundColor}"/>
+    <SolidColorBrush x:Key="InputBoxBackgroundBrush" Color="{StaticResource InputBoxBackgroundColor}"/>
+    <SolidColorBrush x:Key="InputBoxBorderBrush" Color="#D1D5DB"/> <!-- Visible light grey border -->
+    
+    <!-- Send Button -->
+    <!-- Send Button (Transparent Black in Light Theme) -->
+    <Color x:Key="SendButtonColor">Transparent</Color>
+    <Color x:Key="SendButtonTextColor">#000000</Color>
+    <SolidColorBrush x:Key="SendButtonBrush" Color="{StaticResource SendButtonColor}"/>
+    <SolidColorBrush x:Key="SendButtonTextBrush" Color="{StaticResource SendButtonTextColor}"/>
+
+</ResourceDictionary>
