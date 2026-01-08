@@ -24,3 +24,6 @@ Publish/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Exceptions
+!TestChat_Release.zip
