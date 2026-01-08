@@ -15,7 +15,7 @@ Test Chat Windows Native, desarrollado en WPF con .NET 9.
 *   **Manejo de Archivos**:
     *   **Adjuntos**: Pega imágenes o archivos usando el botón dedicado o **Ctrl+V**.
     *   **Drag & Drop**: Copia archivos del explorador y pégalos directamente en el chat.
-    *   **Previsualizaciones**: Las imágenes muestran una miniatura; los archivos muestran iconos dinámicos según su tipo (📊, 📕, 📦, etc.).
+    *   **Previsualizaciones**: Las imágenes muestran una miniatura; los archivos muestran iconos dinámicos según su tipo.
     *   **Interacción**: Haz clic en cualquier adjunto para abrirlo con el visor predeterminado de tu sistema.
 ## Requisitos Previos
 *   **.NET 9.0 SDK**: Necesario para compilar y ejecutar la aplicación.
