@@ -7,7 +7,12 @@ Si no quieres compilar el código y solo quieres usar la aplicación:
 2.  Busca y descarga el archivo **`TestChat_Release.zip`**.
 3.  Descomprime el archivo (Click derecho -> Extraer todo).
 4.  Abre la carpeta extraída y ejecuta **`TestChat.exe`**.
-¡Eso es todo! No necesitas instalar .NET SDK ni configurar nada más.
+   > **Nota si aparece "Windows protegió su PC"**:
+> Al no tener una firma digital (que cuesta dinero), Windows puede bloquear la app por precaución.
+> 1. Haz clic en **"Más información"** (texto subrayado).
+> 2. Haz clic en el botón **"Ejecutar de todas formas"**.
+> 3. ¡Listo! La app es segura (podes revisar el código fuente acá mismo).
+ No necesitas instalar .NET SDK ni configurar nada más.
 
 ## Características
 *   **UI/UX Moderna**:
