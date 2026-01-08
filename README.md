@@ -1,6 +1,14 @@
 # TestChat
 Test Chat Windows Native, desarrollado en WPF con .NET 9.
 
+##  Descarga y Ejecución Rápida (.zip)
+Si no quieres compilar el código y solo quieres usar la aplicación:
+1.  Ve a la lista de archivos de este repositorio (arriba).
+2.  Busca y descarga el archivo **`TestChat_Release.zip`**.
+3.  Descomprime el archivo (Click derecho -> Extraer todo).
+4.  Abre la carpeta extraída y ejecuta **`TestChat.exe`**.
+¡Eso es todo! No necesitas instalar .NET SDK ni configurar nada más.
+
 ## Características
 *   **UI/UX Moderna**:
     *   **Modo Oscuro y Claro**: Cambio de tema fluido con preferencias persistentes.
